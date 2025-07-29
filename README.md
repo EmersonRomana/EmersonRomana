@@ -148,7 +148,7 @@ Interface de login com vídeo de fundo, efeito vidro (glassmorphism), animação
 
 ---
 
-### 🖥️ [Página de Links (Rocketseat)](https://github.com/EmersonRomana/rocketseat)](https://github.com/EmersonRomana/rocketseatt)
+### 🖥️ [Página de Links (Rocketseat)(https://github.com/EmersonRomana/rocketseat)](https://github.com/EmersonRomana/rocketseatt)
 
 O projeto apresenta uma interface moderna e responsiva, com links organizados para redes sociais e outros destinos personalizados. O usuário pode alternar dinamicamente entre os modos claro e escuro, oferecendo uma experiência visual adaptável. É ideal como página de apresentação pessoal, com navegação simples e acesso rápido a conteúdos importantes.
 
