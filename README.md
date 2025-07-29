@@ -64,11 +64,11 @@ Tenho experiência em:
 | Projeto | Descrição | Visual |
 |--------|-----------|--------|
 | **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
-| **Cordel Nordestino** | Página estilizada com fonte personalizada e layout cultural | [🔗 Ver Projeto](https://emersonromana.github.io/desafio-cordel/) |
 | **Portfolio Interativo** | Site com SPA, transições suaves e tema vibrante | [🔗 Ver Projeto](https://emersonromana.github.io/portif-lio-site-contabilidade/) |
 | **Landing Page Criativa** | Interface com foco comercial e design responsivo | [🔗 Ver Projeto](https://emersonromana.github.io/leadingPage-relvcode/) |
 | **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
 | **Tela de Login com Glassmorphism** | Login com vídeo de fundo e efeito vidro | [🔗 Ver Projeto](https://emersonromana.github.io/glassmorphism-Full-Screen-Background-Video/) |
+| **Páginas de links personalizadas** | Ambiente claro ou escuro com alternância dinâmica | [🔗 Ver Projeto](https://emersonromana.github.io/rocketseat/projeto/index.html) |
 
 ---
 
@@ -148,12 +148,11 @@ Interface de login com vídeo de fundo, efeito vidro (glassmorphism), animação
 
 ---
 
-### 🧠 [Desafio Cordel (Curso em Video)](https://github.com/EmersonRomana/desafio-cordel/blob/main/README.md)
+### 🖥️ [Página de Links (Rocketseat)](https://github.com/EmersonRomana/rocketseat)](https://github.com/EmersonRomana/rocketseatt)
 
-Projeto desenvolvido como parte do Desafio Final do Módulo 3 do curso de HTML5 e CSS3 oferecido gratuitamente pelo Curso em Vídeo , ministrado pelo professor Gustavo Guanabara . Este projeto tem como objetivo colocar em prática os conhecimentos adquiridos sobre semântica HTML, estilização com CSS e uso de fontes externas.
+O projeto apresenta uma interface moderna e responsiva, com links organizados para redes sociais e outros destinos personalizados. O usuário pode alternar dinamicamente entre os modos claro e escuro, oferecendo uma experiência visual adaptável. É ideal como página de apresentação pessoal, com navegação simples e acesso rápido a conteúdos importantes.
 
 ---
-
 <div align="center">
 
 > “Interfaces são poemas visuais que guiam o usuário com leveza e propósito.” 🎭✨
