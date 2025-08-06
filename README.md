@@ -221,17 +221,8 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Refatoração                      | 🆕 Não Iniciado |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Organização de Projetos          | 🆕 Não Iniciado |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Linter e Formatadores            | 🆕 Não Iniciado |           |
-| **🤝 Soft Skills e Carreira**                       | 🆕 Não Iniciado | 🤝        |
-| &nbsp;&nbsp;&nbsp;&nbsp;Comunicação                      | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Trabalho em Equipe               | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Resolução de Problemas           | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Adaptabilidade                   | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Gestão de Tempo e Produtividade  | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Aprendizado Contínuo             | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Networking                       | 🆕 Não Iniciado |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Preparação para Entrevistas      | 🆕 Não Iniciado |           |
 
-🧠 *Estou sempre evoluindo como desenvolvedor, combinando design criativo com soluções técnicas modernas.*
+🧠 *"Para quem não sabe para onde vai, qualquer caminho serve."*
 
 
 ---
