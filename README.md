@@ -2,13 +2,13 @@
 
 # 🎨 Emerson • Desenvolvedor Front-end Criativo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=F7F7F7&center=true&vCenter=true&width=550&lines=Transformo+c%C3%B3digos+em+experi%C3%AAncias;Interfaces+que+encantam+e+comunicam;HTML%2C+CSS%2C+JS+com+fluidez" alt="Typing SVG" />
+---
 
-<br/>
+![Minha Criação](https://i.ibb.co/1JRks274/0808-Cover.jpg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Front-end Animation" />
+> Essa imagem representa meu estilo: direto, criativo e fora do padrão. Parte de um template exclusivo, feito pra quem valoriza agilidade sem abrir mão da originalidade.
 
-</div>
+# 🚨 Acesse esse projeto aqui pelo Readme: [🔗 README.md](https:https://github.com/EmersonRomana/Site-grid-designer/blob/main/readme.md)
 
 ---
 
