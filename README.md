@@ -3,10 +3,16 @@
 # 🎨 Emerson • Desenvolvedor Front-end Criativo
 
 ---
-
-![Minha Criação](https://i.ibb.co/1JRks274/0808-Cover.jpg)
-
-> Essa imagem representa meu estilo: direto, criativo e fora do padrão. Parte de um template exclusivo, feito pra quem valoriza agilidade sem abrir mão da originalidade.
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ibb.co/1JRks274/0808-Cover.jpg" alt="GRID DESIGNER" width="1000"/>
+    </td>
+    <td>
+      <p>Essa imagem representa meu estilo: direto, criativo e fora do padrão. Parte de um template exclusivo, feito para quem valoriza agilidade sem abrir mão da originalidade.</p>
+    </td>
+  </tr>
+</table>
 
 # 🚨 Acesse esse projeto aqui pelo Readme: [🔗 README.md](https:https://github.com/EmersonRomana/Site-grid-designer/blob/main/readme.md)
 
