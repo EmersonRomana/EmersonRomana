@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-# 🚨 Acesse esse projeto aqui pelo Readme: [🔗 README.md](https:https://github.com/EmersonRomana/Site-grid-designer/blob/main/readme.md)
+# 🚨 Acesse esse projeto aqui pelo Readme: [🔗 README.md](https://emersonromana.github.io/Site-grid-designer/)
 
 ---
 
