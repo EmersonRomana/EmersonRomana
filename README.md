@@ -247,7 +247,7 @@ Landing page moderna e responsiva com animação 3D interativa usando Spline, ef
 
 ---
 
-### 🏢 [Site Institucional](https://github.com/EmersonRomana/site-institucional/blob/main/index.html)
+### 🏢 [Site Institucional](https://github.com/EmersonRomana/site-institucional/blob/main/README.md)
 
 Site institucional com layout moderno e responsivo, criado com HTML5, CSS3 e JavaScript. Apresenta soluções empresariais com foco em performance e clareza visual.
 
