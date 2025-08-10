@@ -118,7 +118,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Posicionamento                   | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Flexbox                          | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;CSS Grid                         | ✅ Concluído   |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Responsividade com Media Queries | 🔄 Em Progresso |           |
+| &nbsp;&nbsp;&nbsp;&nbsp;Responsividade com Media Queries | ✅ Concluído |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Unidades de Medida               | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Tipografia                       | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Variáveis CSS                    | ✅ Concluído   |           |
