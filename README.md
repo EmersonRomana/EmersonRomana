@@ -6,10 +6,21 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/1JRks274/0808-Cover.jpg" alt="GRID DESIGNER" width="1000"/>
+      <img src="https://i.ibb.co/8nJTR9z5/cover-dsigner-grid.png" alt="GRID DESIGNER" width="1000"/>
     </td>
     <td>
-      <p>Essa imagem representa meu estilo: direto, criativo e fora do padrão. Parte de um template exclusivo, feito para quem valoriza agilidade sem abrir mão da originalidade.</p>
+      <h2>Grid Designer</h2>
+      <p>🖱️ Como funciona?<br>
+          1️⃣ Você desenha blocos no canvas com o mouse.<br> 
+          2️⃣ Ao soltar, aparece uma janela para definir o nome da área (ex: produto, descrição, valor, botão, img) e o tipo de elemento (tag, classe ou id). <br>
+          3️⃣ A ferramenta gera automaticamente o HTML estruturado e o CSS Grid com grid-template-areas, grid-area, colunas e linhas. <br>
+          4️⃣ Depois é só copiar o código, colar no seu projeto e personalizar com seus textos e estilos.</p>
+      <p>  
+          💡 O que ela faz:<br>
+          ✅ Cria a estrutura HTML com base no layout desenhado <br>
+          ✅ Gera o posicionamento CSS usando Grid <br>
+          ✅ Permite visualização em tempo real <br>
+          ✅ Facilita a prototipagem e aprendizado</p>
     </td>
   </tr>
 </table>
