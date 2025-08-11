@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/8nJTR9z5/cover-dsigner-grid.png" alt="GRID DESIGNER" width="1000"/>
+      <img src="https://i.ibb.co/8nJTR9z5/cover-dsigner-grid.png" alt="GRID DESIGNER"/>
     </td>
     <td>
       <h2>Grid Designer</h2>
