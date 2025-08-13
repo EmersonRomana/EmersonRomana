@@ -3,7 +3,7 @@
 # 🎨 Emerson • Desenvolvedor Front-end Criativo
 </div>
 
-<img src="https://i.ibb.co/8nJTR9z5/cover-dsigner-grid.png" style="height: auto;">
+<img src="https://camo.githubusercontent.com/7ce77a8c5c47f09a0354393a5c3b18212ca6ddad81b4dbb921a6897611ccf224/68747470733a2f2f692e6962622e636f2f386e4a5452397a352f636f7665722d647369676e65722d677269642e706e67" style="height: auto;">
 
 
 ---
