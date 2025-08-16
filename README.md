@@ -7,7 +7,7 @@
 ## Grid Designer
 
 <p>
-    🖱️ Como funciona?<br>
+    🖱️ Como funciona?<br><br>
     1️⃣ Você desenha blocos no canvas com o mouse.<br> 
     2️⃣ Ao soltar, aparece uma janela para definir o nome da área (ex: produto, descrição, valor, botão, img) e o tipo de elemento (tag, classe ou id). <br>
     3️⃣ A ferramenta gera automaticamente o HTML estruturado e o CSS Grid com grid-template-areas, grid-area, colunas e linhas. <br>
@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    💡 O que ela faz:<br>
+    💡 O que ela faz:<br><br>
     ✅ Cria a estrutura HTML com base no layout desenhado <br>
     ✅ Gera o posicionamento CSS usando Grid <br>
     ✅ Permite visualização em tempo real <br>
