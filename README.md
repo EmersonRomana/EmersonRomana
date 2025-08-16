@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Emerson • Desenvolvedor Front-end Criativo
+# Emerson • Desenvolvedor Front-end Criativo
 </div>
 
 
