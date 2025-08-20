@@ -118,7 +118,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;HTML Semântico                   | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Formulários                      | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Atributos                        | ✅ Concluído   |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Metadados e SEO Básico             | 🆕 Não Iniciado |           |
+| &nbsp;&nbsp;&nbsp;&nbsp;Metadados e SEO Básico             | 🔄 Em Progresso |           |
 | **💅 CSS3**                                          | ✅ Concluído   | 💅        |
 | &nbsp;&nbsp;&nbsp;&nbsp;Sintaxe CSS                      | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Box Model                        | ✅ Concluído   |           |
