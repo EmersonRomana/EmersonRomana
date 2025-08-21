@@ -113,7 +113,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Unidades de Medida               | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Tipografia                       | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Variáveis CSS                    | ✅ Concluído   |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Transições e Animações           | 🔄 Em Progresso |           |
+| &nbsp;&nbsp;&nbsp;&nbsp;Transições e Animações           | ✅ Concluído |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Pseudo-classes e Pseudo-elementos| ✅ Concluído   |           |
 | **💻 JavaScript**                                    | ✅ Concluído   | 💻        |
 | &nbsp;&nbsp;&nbsp;&nbsp;Fundamentos                      | ✅ Concluído   |           |
