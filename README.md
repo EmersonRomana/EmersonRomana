@@ -4,25 +4,8 @@
 </div>
 
 
-## Grid Designer
-
-<p>
-    🖱️ Como funciona?<br><br>
-    1️⃣ Você desenha blocos no canvas com o mouse.<br> 
-    2️⃣ Ao soltar, aparece uma janela para definir o nome da área (ex: produto, descrição, valor, botão, img) e o tipo de elemento (tag, classe ou id). <br>
-    3️⃣ A ferramenta gera automaticamente o HTML estruturado e o CSS Grid com grid-template-areas, grid-area, colunas e linhas. <br>
-    4️⃣ Depois é só copiar o código, colar no seu projeto e personalizar com seus textos e estilos.
-</p>
-
-<p>
-    💡 O que ela faz:<br><br>
-    ✅ Cria a estrutura HTML com base no layout desenhado <br>
-    ✅ Gera o posicionamento CSS usando Grid <br>
-    ✅ Permite visualização em tempo real <br>
-    ✅ Facilita a prototipagem e aprendizado
-</p>
-
-### 🚨 Acesse esse projeto aqui pelo Readme: [🔗 README.md](https://emersonromana.github.io/Site-grid-designer/)
+<strong>Grid Designer</strong><br>
+ <strong>🚨 Projeto em Destaque:</strong> [🔗 README.md](https://emersonromana.github.io/Site-grid-designer/)
 
 ---
 
@@ -77,9 +60,9 @@ Tenho experiência em:
 
 | Projeto | Descrição | Visual |
 |--------|-----------|--------|
+| **GRID DESIGNER (Destaque)** | O Grid Designer é uma ferramenta web desenvolvida<br> para criação de layouts com CSS Grid | [🔗 Ver Projeto](https://cozy-capybara-baefc0.netlify.app/) |
 | **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
 | **Portfolio Interativo** | Site com SPA, transições suaves e tema vibrante | [🔗 Ver Projeto](https://emersonromana.github.io/portif-lio-site-contabilidade/) |
-| **Landing Page Criativa** | Interface com foco comercial e design responsivo | [🔗 Ver Projeto](https://emersonromana.github.io/leadingPage-relvcode/) |
 | **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
 | **Tela de Login com Glassmorphism** | Login com vídeo de fundo e efeito vidro | [🔗 Ver Projeto](https://emersonromana.github.io/glassmorphism-Full-Screen-Background-Video/) |
 | **Páginas de links personalizadas** | Ambiente claro ou escuro com alternância dinâmica | [🔗 Ver Projeto](https://emersonromana.github.io/rocketseat/projeto/index.html) |
@@ -243,15 +226,15 @@ Tenho experiência em:
 
 ## 📁 Documentação de Projetos
 
-### 🧑‍💻 [MinfBook Rede Social](https://github.com/EmersonRomana/MinfBook-RedeSocial/blob/main/Readme.md)
+### 🚀 [GRID DESIGNER (Destaque](https://github.com/EmersonRomana/card-desgner-grid/blob/main/readme.md)
 
-Rede social com interface amigável e personalizável, oferecendo recursos como menu lateral, busca de mensagens, customização de tema e fonte, além de opções de cores e fundos. Desenvolvido com HTML, CSS e JavaScript.
+Com o Grid Designer, você desenha diretamente no canvas — como se estivesse usando o Paint — e a ferramenta transforma esse desenho em estrutura HTML com elementos nomeado, código CSS Grid com posicionamento  automático e layout responsivo com colunas, linhas e áreas nomeadas.
 
 ---
 
-### 🚀 [Landing Page RelvCode](https://github.com/EmersonRomana/leadingPage-relvcode/blob/main/README.md)
+### 🧑‍💻 [MinfBook Rede Social](https://github.com/EmersonRomana/MinfBook-RedeSocial/blob/main/Readme.md)
 
-Landing page moderna e responsiva com animação 3D interativa usando Spline, efeitos modernos em CSS e animações com AOS. Design focado em performance, UX e SEO, ideal para apresentar serviços e atrair clientes com impacto visual.
+Rede social com interface amigável e personalizável, oferecendo recursos como menu lateral, busca de mensagens, customização de tema e fonte, além de opções de cores e fundos. Desenvolvido com HTML, CSS e JavaScript.
 
 ---
 
