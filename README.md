@@ -62,7 +62,7 @@ Tenho experiência em:
 |--------|-----------|--------|
 | **GRID DESIGNER (Destaque)** | O Grid Designer é uma ferramenta web desenvolvida<br> para criação de layouts com CSS Grid | [🔗 Ver Projeto](https://cozy-capybara-baefc0.netlify.app/) |
 | **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
-| **Portfolio Interativo** | Site com SPA, transições suaves e tema vibrante | [🔗 Ver Projeto](https://emersonromana.github.io/portif-lio-site-contabilidade/) |
+| **Bikcraft — Bicicletas Elétricas** | Catálogo de modelos, Formulário de contato, etc | [🔗 Ver Projeto](https://emersonromana.github.io/bikcraftFull/) |
 | **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
 | **Tela de Login com Glassmorphism** | Login com vídeo de fundo e efeito vidro | [🔗 Ver Projeto](https://emersonromana.github.io/glassmorphism-Full-Screen-Background-Video/) |
 | **Páginas de links personalizadas** | Ambiente claro ou escuro com alternância dinâmica | [🔗 Ver Projeto](https://emersonromana.github.io/rocketseat/projeto/index.html) |
@@ -238,15 +238,14 @@ Rede social com interface amigável e personalizável, oferecendo recursos como 
 
 ---
 
-### 🏢 [Site Institucional](https://github.com/EmersonRomana/site-institucional/blob/main/README.md)
-
-Site institucional com layout moderno e responsivo, criado com HTML5, CSS3 e JavaScript. Apresenta soluções empresariais com foco em performance e clareza visual.
+### 🚴🏽⚡ [Bikcraft — Bicicletas Elétricas](https://github.com/EmersonRomana/bikcraftFull/blob/main/README.md)
+Bikcraft é um projeto de site responsável por uma marca fictícia de bicicletas elétricas personalizadas. A plataforma oferece catálogo de modelos (Magic Might, Nimbus Stark, Nebula Cosmic) com personalização de núcleos e componentes, seção de seguros ( prata e ouro ) com detalhes de planos, área de parceiros e depoimentos de clientes, formulário de contato e acessibilidade aos Termos e Condições. E totalmente responsivo em todas as suas páginas.
 
 ---
 
-### 📊 [Site de Contabilidade](https://github.com/EmersonRomana/portif-lio-site-contabilidade/blob/main/README.md)
+### 🏢 [Site Institucional](https://github.com/EmersonRomana/site-institucional/blob/main/README.md)
 
-Site fictício criado para portfólio de desenvolvedor, representando uma empresa de contabilidade. Projeto moderno, responsivo e animado, com foco em serviços, contato, carrossel de clientes e formulário funcional.
+Site institucional com layout moderno e responsivo, criado com HTML5, CSS3 e JavaScript. Apresenta soluções empresariais com foco em performance e clareza visual.
 
 ---
 
