@@ -146,7 +146,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Autenticação e Autorização       | 🆕 Não Iniciado |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Upload de Arquivos               | 🆕 Não Iniciado |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Variáveis de Ambiente            | 🆕 Não Iniciado |           |
-| **🗄️ Bancos de Dados (SQL e NoSQL)**                 | ✅ Concluído   | 🗄️        |
+| **🗄️ Bancos de Dados (SQL e NoSQL)**                 | 🔄 Em Progresso | 🗄️        |
 | &nbsp;&nbsp;&nbsp;&nbsp;Conceitos Fundamentais           | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;SQL (DDL, DML, Joins, Índices, Transações, Normalização) | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;NoSQL (Conceitos, CRUD, Consultas Avançadas, Modelagem de Dados) | 🔄 Em Progresso |           |
