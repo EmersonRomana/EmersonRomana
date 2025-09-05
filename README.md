@@ -61,7 +61,7 @@ Tenho experiência em:
 
 | Projeto | Descrição | Visual |
 |--------|-----------|--------|
-| **GRID DESIGNER (Destaque)** | O Grid Designer é uma ferramenta web desenvolvida<br> para criação de layouts com CSS Grid | [🔗 Ver Projeto](https://cozy-capybara-baefc0.netlify.app/) |
+| **GRID DESIGNER (Destaque)** | O Grid Designer é uma ferramenta web desenvolvida<br> criação de layouts com CSS Grid | [🔗 Ver Projeto](https://cozy-capybara-baefc0.netlify.app/) |
 | **MinfBook Rede Social** | Rede social com interface amigável e personalizável | [🔗 Ver Projeto](https://emersonromana.github.io/MinfBook-RedeSocial/) |
 | **Bikcraft — Bicicletas Elétricas** | Catálogo de modelos, Formulário de contato, etc | [🔗 Ver Projeto](https://emersonromana.github.io/bikcraftFull/) |
 | **Site Institucional** | Página institucional com foco em soluções empresariais | [🔗 Ver Projeto](https://emersonromana.github.io/site-institucional/) |
