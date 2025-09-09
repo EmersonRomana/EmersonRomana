@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-Olá, sou o **Emerson**, um apaixonado por desenvolvimento **front-end** e criação de interfaces que se conectam com pessoas.
+Olá, sou o **Emerson**, um apaixonado por desenvolvimento **front-end** e criação de interfaces que se conectam com pessoas!
 
 Tenho experiência em:
 
