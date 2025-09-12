@@ -31,7 +31,7 @@ Tenho experiência em:
 - 💻 Sites Responsivos & Modernos  
 - 🎨 Design de Interfaces com Figma  
 - 🧠 Soluções Web com Python  
-- 🔎 Otimização de SEO e performance  
+- 🔎 Otimização de SEO
 - 🗄️ Integrações com bancos de dados MySQL  
 
 ---
