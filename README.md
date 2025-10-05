@@ -122,7 +122,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Arrays e Objetos                 | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Manipulação do DOM               | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Eventos                          | ✅ Concluído   |           |
-| &nbsp;&nbsp;&nbsp;&nbsp;Assincronicidade                 | 🔄 Em Progresso |           |
+| &nbsp;&nbsp;&nbsp;&nbsp;Assincronicidade                 | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Fetch API e Requisições HTTP     | 🔄 Em Progresso |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Módulos ES6                      | 🆕 Não Iniciado |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Programação Orientada a Objetos  | 🆕 Não Iniciado |           |
