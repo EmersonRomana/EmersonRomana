@@ -70,15 +70,6 @@ Tenho experiência em:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmersonRomana&show_icons=true&theme=dark-green" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonRomana&layout=compact&theme=dark-green" />
-</div>
-
----
-
 ## ✉️ Contato
 
 📩 Fale comigo para colaborações e projetos criativos:
