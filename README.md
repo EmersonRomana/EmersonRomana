@@ -107,7 +107,7 @@ Tenho experiência em:
 | &nbsp;&nbsp;&nbsp;&nbsp;Variáveis CSS                    | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Transições e Animações           | ✅ Concluído |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Pseudo-classes e Pseudo-elementos| ✅ Concluído   |           |
-| **💻 JavaScript**                                    | ✅ Concluído   | 💻        |
+| **💻 JavaScript**                                    | 🔄 Em Progresso   | 💻        |
 | &nbsp;&nbsp;&nbsp;&nbsp;Fundamentos                      | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Funções                          | ✅ Concluído   |           |
 | &nbsp;&nbsp;&nbsp;&nbsp;Arrays e Objetos                 | ✅ Concluído   |           |
