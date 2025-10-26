@@ -14,7 +14,7 @@
 
 Olá, sou o **Emerson**, um apaixonado por desenvolvimento **front-end** e criação de interfaces que se conectam com pessoas!
 
-Tenho experiência em
+Tenho experiência em:
 
 - HTML5 semântico  
 - CSS3 com animações criativas  
