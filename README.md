@@ -1,6 +1,7 @@
 <div align="center">
 
-# Emerson • Desenvolvedor Front-end
+# Olá! E seja Bem Vindo 
+# Meu nome é Emerson e atualmente estou estudando Front-End
 
 </div>
 
