@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! E seja Bem Vindo 
+# Olá! E seja Bem Vindo!
 # Meu nome é Emerson e atualmente estou estudando Front-End
 
 </div>
